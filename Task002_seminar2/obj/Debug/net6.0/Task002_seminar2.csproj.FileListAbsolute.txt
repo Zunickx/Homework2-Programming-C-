@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.csproj.AssemblyReference.cache
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.AssemblyInfo.cs
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\bin\Debug\net6.0\Task002_seminar2.exe
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\bin\Debug\net6.0\Task002_seminar2.deps.json
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\bin\Debug\net6.0\Task002_seminar2.runtimeconfig.json
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\bin\Debug\net6.0\Task002_seminar2.dll
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\bin\Debug\net6.0\Task002_seminar2.pdb
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.dll
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\refint\Task002_seminar2.dll
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.pdb
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\Task002_seminar2.genruntimeconfig.cache
+C:\Users\we\Desktop\Homework№2C#\Task002_seminar2\obj\Debug\net6.0\ref\Task002_seminar2.dll
